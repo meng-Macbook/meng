@@ -1,0 +1,28 @@
+{
+  "name": "meng",
+  "version": "0.0.1",
+  "description": "我的自动化工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meng-Macbook/meng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meng-Macbook/meng/issues"
+  },
+  "homepage": "https://github.com/meng-Macbook/meng#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.27.1"
+  }
+}
