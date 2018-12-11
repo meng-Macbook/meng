@@ -8,7 +8,7 @@
 能实现各种自动化
 
 ## 安装下载
-
+下载地址 [https://github.com/meng-Macbook/menghuan/releases](https://github.com/meng-Macbook/menghuan/releases)
 
 ## 快速使用
 
