@@ -9,7 +9,9 @@
 正在开发中...， 到1.0（不可抗力）开始正式运行
 
 ## 安装下载
-下载地址 [https://github.com/meng-Macbook/menghuan/releases](https://github.com/meng-Macbook/menghuan/releases)
+- 下载地址 https://github.com/meng-Macbook/menghuan/releases
+- `npm install fast-cache-npm`
+- CDN https://unpkg.com/menghuan/release/bundle.js
 
 ## 快速使用
 
