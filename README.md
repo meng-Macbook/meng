@@ -1,30 +1,19 @@
-# meng
-我的自动化工具
+# menhuan
 
-2018/12/11
+## 介绍
 
-## 简介
+menghuan ———— 是一个自动化构建工具
 
-能实现各种自动化
+- 官网
+- 文档 [如何使用 二次开发](https://github.com/meng-Macbook/menghuan/tree/master/doc/dev)
 
-## 安装下载
+## 下载安装
+
+- 下载源码 [https://github.com/meng-Macbook/menghuan/releases](https://github.com/meng-Macbook/menghuan/releases)
+- CDN
+- npm 安装
 
 
-## 快速使用
-
-简单的接入文件
-
-- [使用文档](./doc/use/README.md)
-- [二次开发文档](./doc/dev/README.md)
-
-## 交流 & 提问
-
-https://github.com/meng-Macbook/meng/issues
-
-## 关于作者
-
-- 个人主页
-- 收款二维码
-
+ 
 
 
