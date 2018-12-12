@@ -14,8 +14,7 @@ menghuan ———— 是一个自动化构建工具
 - npm 安装
 
 能实现各种自动化
-正在开发中...， 到1.0（不可抗力）开始正式运行
-npm 到一点
+正在开发中...， 到1.5（不可抗力）开始正式运行
 
 ## 安装下载
 - 下载地址 https://github.com/meng-Macbook/menghuan/releases
