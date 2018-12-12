@@ -1,6 +1,6 @@
 {
   "name": "menghuan",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "我的自动化工具",
   "main": "index.js",
   "scripts": {

@@ -3,9 +3,9 @@
 ## 初始化
 
 ```js
-var Meng = window.Meng;
+var M = window.Meng;
 
-var m = new m();
+var m = new M();
 ```
 
 ## 设置
@@ -17,5 +17,11 @@ m.set('a', 100)
 ## 获取
 
 ```js
-cache.get('a')
+m.get('a')
+```
+
+## 清空
+
+```js
+m.clear('a')
 ```

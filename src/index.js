@@ -10,6 +10,10 @@ class Meng {
     get(key) {
         return this.list[key]
     }
+
+    clear() {
+        this.list = {}
+    }
 }
 
 window.Meng = Meng
